@@ -1,0 +1,8 @@
+cipher
+*.o
+*.exe
+a.out
+
+
+build/
+dist/
